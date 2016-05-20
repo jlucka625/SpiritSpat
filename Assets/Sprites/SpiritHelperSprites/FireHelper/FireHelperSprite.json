@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"FireSpriteWalk0000":
+{
+	"frame": {"x":16,"y":16,"w":254,"h":389},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":389},
+	"sourceSize": {"w":254,"h":389}
+},
+"FireSpriteWalk0001":
+{
+	"frame": {"x":345,"y":16,"w":254,"h":389},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":389},
+	"sourceSize": {"w":254,"h":389}
+},
+"FireSpriteWalk0002":
+{
+	"frame": {"x":674,"y":16,"w":254,"h":389},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":389},
+	"sourceSize": {"w":254,"h":389}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "FireHelperSprite.png",
+	"format": "RGBA8888",
+	"size": {"w":1086,"h":429},
+	"scale": "1"
+}
+}

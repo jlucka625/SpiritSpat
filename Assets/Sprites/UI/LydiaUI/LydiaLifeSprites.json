@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"FlowerLives0000":
+{
+	"frame": {"x":0,"y":0,"w":260,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":80},
+	"sourceSize": {"w":260,"h":80}
+},
+"FlowerLives0001":
+{
+	"frame": {"x":0,"y":80,"w":260,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":80},
+	"sourceSize": {"w":260,"h":80}
+},
+"FlowerLives0002":
+{
+	"frame": {"x":0,"y":160,"w":260,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":80},
+	"sourceSize": {"w":260,"h":80}
+},
+"FlowerLives0003":
+{
+	"frame": {"x":0,"y":240,"w":260,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":80},
+	"sourceSize": {"w":260,"h":80}
+},
+"FlowerLives0004":
+{
+	"frame": {"x":0,"y":320,"w":260,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":80},
+	"sourceSize": {"w":260,"h":80}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "Lydia.png",
+	"format": "RGBA8888",
+	"size": {"w":275,"h":380},
+	"scale": "1"
+}
+}

@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"FireLives0000":
+{
+	"frame": {"x":0,"y":0,"w":257,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":74},
+	"sourceSize": {"w":257,"h":74}
+},
+"FireLives0001":
+{
+	"frame": {"x":0,"y":74,"w":257,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":74},
+	"sourceSize": {"w":257,"h":74}
+},
+"FireLives0002":
+{
+	"frame": {"x":0,"y":148,"w":257,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":74},
+	"sourceSize": {"w":257,"h":74}
+},
+"FireLives0003":
+{
+	"frame": {"x":0,"y":222,"w":257,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":74},
+	"sourceSize": {"w":257,"h":74}
+},
+"FireLives0004":
+{
+	"frame": {"x":0,"y":296,"w":257,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":74},
+	"sourceSize": {"w":257,"h":74}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "GusLifeSprites.png",
+	"format": "RGBA8888",
+	"size": {"w":275,"h":380},
+	"scale": "1"
+}
+}

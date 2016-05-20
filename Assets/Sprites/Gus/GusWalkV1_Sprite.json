@@ -1,0 +1,67 @@
+﻿{"frames": {
+
+"GusWalk20000":
+{
+	"frame": {"x":0,"y":0,"w":257,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":377},
+	"sourceSize": {"w":257,"h":377}
+},
+"GusWalk20001":
+{
+	"frame": {"x":257,"y":0,"w":257,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":377},
+	"sourceSize": {"w":257,"h":377}
+},
+"GusWalk20002":
+{
+	"frame": {"x":514,"y":0,"w":257,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":377},
+	"sourceSize": {"w":257,"h":377}
+},
+"GusWalk20003":
+{
+	"frame": {"x":771,"y":0,"w":257,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":377},
+	"sourceSize": {"w":257,"h":377}
+},
+"GusWalk20004":
+{
+	"frame": {"x":1028,"y":0,"w":257,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":377},
+	"sourceSize": {"w":257,"h":377}
+},
+"GusWalk20005":
+{
+	"frame": {"x":1285,"y":0,"w":257,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":377},
+	"sourceSize": {"w":257,"h":377}
+},
+"GusWalk20006":
+{
+	"frame": {"x":1542,"y":0,"w":257,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":377},
+	"sourceSize": {"w":257,"h":377}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "GusWalkV1_Sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

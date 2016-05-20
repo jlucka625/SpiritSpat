@@ -1,0 +1,171 @@
+﻿{"frames": {
+
+"LydWave0000":
+{
+	"frame": {"x":0,"y":0,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0001":
+{
+	"frame": {"x":241,"y":0,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0002":
+{
+	"frame": {"x":482,"y":0,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0003":
+{
+	"frame": {"x":723,"y":0,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0004":
+{
+	"frame": {"x":964,"y":0,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0005":
+{
+	"frame": {"x":1205,"y":0,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0006":
+{
+	"frame": {"x":1446,"y":0,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0007":
+{
+	"frame": {"x":1687,"y":0,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0008":
+{
+	"frame": {"x":0,"y":351,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0009":
+{
+	"frame": {"x":241,"y":351,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0010":
+{
+	"frame": {"x":482,"y":351,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0011":
+{
+	"frame": {"x":723,"y":351,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0012":
+{
+	"frame": {"x":964,"y":351,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0013":
+{
+	"frame": {"x":1205,"y":351,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0014":
+{
+	"frame": {"x":1446,"y":351,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0015":
+{
+	"frame": {"x":1687,"y":351,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0016":
+{
+	"frame": {"x":0,"y":702,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0017":
+{
+	"frame": {"x":241,"y":702,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0018":
+{
+	"frame": {"x":482,"y":702,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+},
+"LydWave0019":
+{
+	"frame": {"x":723,"y":702,"w":241,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":351},
+	"sourceSize": {"w":241,"h":351}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "LydiaAttackSprite.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
