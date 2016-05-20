@@ -1,7 +1,7 @@
 # SpiritSpat
 Rapid Prototype game made in Unity
 
-My Scripts (found in the Assets/Scripts folder):
+All of the scripts for this project can be found in the Assets/Scripts folder. Some scripts with my most significant contributions are:
 
 Spire Ability
 
@@ -9,7 +9,7 @@ ProjectileContact
 
 ProjectileAbility
 
-PlayerController
+PlayerController (Lines 1 - 259)
 
 HUDManager
 
